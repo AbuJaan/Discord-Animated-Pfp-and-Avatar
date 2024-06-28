@@ -1,0 +1,31 @@
+{
+  "name": "Discord Animated Pfp and Avatar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbuJaan/Discord-Animated-Pfp-and-Avatar.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "animated",
+    "gif"
+  ],
+  "author": "BilloXD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbuJaan/Discord-Animated-Pfp-and-Avatar/LICENSE"
+  },
+  "homepage": "https://github.com/AbuJaan/Discord-Animated-Pfp-and-Avatar#readme",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.74",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
