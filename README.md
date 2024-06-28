@@ -5,11 +5,11 @@ Welcome to Discord Animated Pfp and Avatar
 
 ### Setup Instructions
 
-1. **Crete Replit**
+1. **Create Replit Project**
   
 2. **Import from Github**
    ```
-   git clone https://github.com/AbuJaan/Discord-Animated-Pfp-and-Avatar.git
+   https://github.com/AbuJaan/Discord-Animated-Pfp-and-Avatar.git
    ```
 
 3. **Install Dependencies:**
